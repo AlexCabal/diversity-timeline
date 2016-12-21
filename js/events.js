@@ -1,5 +1,12 @@
 var events = [
-
+		'date':'2007',
+		'title':'Intercultural Center',
+		'content':'Intercultural Center opens.',
+		'link':'https://www.wit.edu/student-life/student-services/international-student-services',
+		'type':'international',
+		'history':false,
+	},
+	
 	{
 		'date':'2007',
 		'title':'Intercultural Center',
